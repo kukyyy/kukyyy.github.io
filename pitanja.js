@@ -1,7 +1,7 @@
 let words = [
     {
-        word: "addition",
-        hint: "The process of adding numbers"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
         word: "meeting",
