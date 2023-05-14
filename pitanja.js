@@ -4,40 +4,40 @@ let words = [
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "meeting",
-        hint: "Event in which people come together"
+         word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "number",
-        hint: "Math symbol used for counting"
+          word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "exchange",
-        hint: "The act of trading"
+          word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "canvas",
-        hint: "Piece of fabric for oil painting"
+         word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "garden",
-        hint: "Space for planting flower and plant"
+          word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "position",
-        hint: "Location of someone or something"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "feather",
-        hint: "Hair like outer covering of bird"
+         word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "comfort",
-        hint: "A pleasant feeling of relaxation"
+      word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "tongue",
-        hint: "The muscular organ of mouth"
+         word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
         word: "expansion",
