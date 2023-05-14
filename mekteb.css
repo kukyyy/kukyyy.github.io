@@ -18,7 +18,7 @@ body{
 .container{
     width: 450px;
     border-radius: 7px;
-    background: #red;
+    background: #fff;
 }
 .container h2{
     font-size: 25px;
