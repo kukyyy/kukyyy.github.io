@@ -12,7 +12,7 @@ body{
     align-items:center;
     justify-content: center;
     min-height: 100vh;
-    background: url('https://user-images.githubusercontent.com/133484099/238170173-3de84ea5-7e9a-4913-8b37-d28ba860fa9f.jpg');
+    background-image: url('https://user-images.githubusercontent.com/133484099/238170173-3de84ea5-7e9a-4913-8b37-d28ba860fa9f.jpg');
 
 }
 .container{
