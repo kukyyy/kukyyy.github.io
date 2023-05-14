@@ -40,52 +40,52 @@ let words = [
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "expansion",
-        hint: "The process of increase or grow"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "country",
-        hint: "A politically identified region"
+         word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "group",
-        hint: "A number of objects or persons"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu""
     },
     {
-        word: "taste",
-        hint: "Ability of tongue to detect flavour"
+       word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "store",
-        hint: "Large shop where goods are traded"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "field",
-        hint: "Area of land for farming activities"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "friend",
-        hint: "Person other than a family member"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "pocket",
-        hint: "A bag for carrying small items"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "needle",
-        hint: "A thin and sharp metal pin"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "expert",
-        hint: "Person with extensive knowledge"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "statement",
-        hint: "A declaration of something"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-        word: "second",
-        hint: "One-sixtieth of a minute"
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
         word: "library",
