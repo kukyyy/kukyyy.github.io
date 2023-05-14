@@ -12,14 +12,13 @@ body{
     align-items:center;
     justify-content: center;
     min-height: 100vh;
-    background-color: green;
-    
+   
    
 }
 .container{
     width: 450px;
     border-radius: 7px;
-    background: #fff;
+    background: #green;
 }
 .container h2{
     font-size: 25px;
