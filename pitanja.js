@@ -1,31 +1,31 @@
 let words = [
     {
-        word: "addition",
-        hint: "The process of adding numbers"
+        word: "000000",
+        hint: "1111111"
     },
     {
-        word: "meeting",
-        hint: "Event in which people come together"
+        word: "000",
+        hint: "1111111111"
     },
     {
-        word: "number",
-        hint: "Math symbol used for counting"
+        word: "0000000000000",
+        hint: "111111111111"
     },
     {
-        word: "exchange",
-        hint: "The act of trading"
+        word: "000000000000",
+        hint: "1111111"
     },
     {
-        word: "canvas",
-        hint: "Piece of fabric for oil painting"
+        word: "000000000",
+        hint: "33333"
     },
     {
-        word: "garden",
-        hint: "Space for planting flower and plant"
+        word: "5555",
+        hint: "666666t"
     },
     {
-        word: "position",
-        hint: "Location of someone or something"
+        word: "7",
+        hint: "8888"
     },
     {
         word: "feather",
