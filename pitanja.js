@@ -4,23 +4,31 @@ let words = [
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-         word: "hidzra",
+        word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-          word: "hidzra",
+        word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-          word: "hidzra",
+        word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-         word: "hidzra",
+        word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-          word: "hidzra",
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
+    },
+    {
+        word: "hidzra",
+        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
+    },
+    {
+        word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
@@ -32,19 +40,11 @@ let words = [
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-      word: "hidzra",
-        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
-    },
-    {
-         word: "hidzra",
-        hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
-    },
-    {
         word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
-         word: "hidzra",
+        word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
@@ -52,7 +52,7 @@ let words = [
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu""
     },
     {
-       word: "hidzra",
+        word: "hidzra",
         hint: "Preseljenje Bozijeg Poslanika alejhi selam iz Mekke u Medinu"
     },
     {
