@@ -16,18 +16,6 @@ let words = [
         hint: "Prva bitnka muslimana protiv musrika Mekke"
     },
     {
-        word: "000000000",
-        hint: "33333"
-    },
-    {
-        word: "5555",
-        hint: "666666t"
-    },
-    {
-        word: "7",
-        hint: "8888"
-    },
-    {
         word: "feather",
         hint: "Hair like outer covering of bird"
     },
