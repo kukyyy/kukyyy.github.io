@@ -1,63 +1,63 @@
 let words = [
     {
-        word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "addition",
+        hint: "The process of adding numbers"
     },
     {
-        word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "meeting",
+        hint: "Event in which people come together"
     },
     {
-        word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "number",
+        hint: "Math symbol used for counting"
     },
     {
-       word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "exchange",
+        hint: "The act of trading"
     },
     {
-        wword: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "canvas",
+        hint: "Piece of fabric for oil painting"
     },
     {
-       word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "garden",
+        hint: "Space for planting flower and plant"
     },
     {
-       word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "position",
+        hint: "Location of someone or something"
     },
     {
-       word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "feather",
+        hint: "Hair like outer covering of bird"
     },
     {
-       word: "hidzra",
-        hint: "Preseljenje Muhameda alejhi selam iz Mekke u Medinu"
+        word: "comfort",
+        hint: "A pleasant feeling of relaxation"
     },
     {
-        word: "tejemum",
-        hint: "proces ciscenja tijela prilikom nestasice vode"
+        word: "tongue",
+        hint: "The muscular organ of mouth"
     },
     {
-       word: "tejemum",
-        hint: "proces ciscenja tijela prilikom nestasice vode"
+        word: "expansion",
+        hint: "The process of increase or grow"
     },
     {
-        word: "tejemum",
-        hint: "proces ciscenja tijela prilikom nestasice vode"
+        word: "country",
+        hint: "A politically identified region"
     },
     {
-       word: "tejemum",
-        hint: "proces ciscenja tijela prilikom nestasice vode"
+        word: "group",
+        hint: "A number of objects or persons"
     },
     {
-       word: "tejemum",
-        hint: "proces ciscenja tijela prilikom nestasice vode"
+        word: "taste",
+        hint: "Ability of tongue to detect flavour"
     },
     {
-       word: "tejemum",
-        hint: "proces ciscenja tijela prilikom nestasice vode"
+        word: "store",
+        hint: "Large shop where goods are traded"
     },
     {
         word: "field",
