@@ -1,19 +1,19 @@
 let words = [
     {
-        word: "000000",
-        hint: "1111111"
+        word: "hidzra",
+        hint: "preseljenje muslimana iz Mekke u Medinu"
     },
     {
-        word: "000",
-        hint: "1111111111"
+        word: "tejemum",
+        hint: "ciscenje tijela zemljom prilikom nestasice vode"
     },
     {
-        word: "0000000000000",
-        hint: "111111111111"
+        word: "hadzerul-esved",
+        hint: "crni kamen u zidu Ka`be"
     },
     {
-        word: "000000000000",
-        hint: "1111111"
+        word: "Bedr",
+        hint: "Prva bitnka muslimana protiv musrika Mekke"
     },
     {
         word: "000000000",
